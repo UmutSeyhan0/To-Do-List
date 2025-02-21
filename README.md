@@ -1,6 +1,6 @@
 # Welcome to To Do List 👋
 
-This is a simple To Do List application. Users can add tasks, mark them as completed, and delete them. The app provides a basic user interface to help you organize your tasks.
+This is a simple To Do List application. Users can add tasks and delete them. The app provides a basic user interface to help you organize your tasks.
 
 ## Features
 - Add new tasks. 
